@@ -11,7 +11,7 @@ Les quelques pièces d'or ramasé au [Temple de l'éclipse][temple] nous permett
 une tournée à la table voisine. Deux nouveaux compagnons pour les *Vautour du Soleil*, voici notre fine équipe.
 * [Hilde][scoundrel]
 * [Jean Michel][brute]
-* [Loup Solitaire][spellweaver]
+* [Kakos O’Lykos][spellweaver]
 * [Steevy Montagné][tinkerer]
 
 ## L'appel de l'aventure
