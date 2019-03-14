@@ -11,9 +11,9 @@
 | Gold      | 15      |
 | Checkmark |   2    |
 
-## Loup Solitaire
+## Kakos O’Lykos
 
-> Ici la biographie...
+> Kakos O’Lykos c'est le "loup solitaire". Mais ne l'appelé pas comme ça, il peut s'énervé.
 
 | XP        |  26          |
 | -------- | -------------:|
