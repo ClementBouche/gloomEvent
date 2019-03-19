@@ -4,15 +4,15 @@
 
 ## Quelques achats dans les bas quartiers de la ville
 
-> Après quelques achats. Alors que nous nous dirigeons vers les quais nous entendons des bruits de panique. On se précipite et faisons face à une situation singulière.
+> Après quelques achats. Alors que nous nous dirigeons vers les quais nous entendons des bruits de panique. Nous nous précipitons et faisons face à une situation singulière.
 
 ![docks][docks]
 
-> Un groupe de **Lurker** - hommes crabes - sont sorti de l'eau et se tiennent au bout d'un ponton. Leur comportement ne semble pas aggresif. Il se contentent pour l'instant de claquer leur énormes pinces en rythme.
+> Un groupe de **Lurker** - hommes crabes - est sorti de l'eau. Ils se tiennent au bout d'un ponton. Leur comportement ne semble pas aggresif. Ils se contentent pour l'instant de claquer leur énormes pinces en rythme.
 
 ![m][monster]
 
-> Nous décidons de traverser la foule de marin qui cherche a en découdre. Notre air décidé finis de les convaincres de nous laisser nous occuper de la situation. Nous essayons de communiquer avec les hommes crabes. Ils partirons un peu plus tard sentant que nous ne constituons pas un danger pour eux.
+> Nous décidons de traverser la foule de marins qui cherchent a en découdre. Notre air décidé fini de les convaincre de nous laisser nous occuper de la situation. Nous essayons de communiquer avec les hommes crabes. Ils partirons un peu plus tard sentant que nous ne constituons pas un danger pour eux malgrè leur frustration et incompréhension.
 
 ## Départ pour la Crypte
 
@@ -20,17 +20,17 @@
 
 ![crypt][crypt]
 
-> En chemin nous aidons un groupe d'inox fuyant leur village en cendre. Le volcan s'est réveillé nous dit le chaman. Il nous tend une amulette. Et nous indique une entrée secrete pour atteindre le coeur du Volcan. Peut être seront nous capable de calmer la bête.
+> En chemin nous aidons un groupe d'inox fuyant leur village en cendre. Le volcan s'est réveillé nous dit le chaman. Il nous tend une amulette. Et nous indique une entrée secrète pour atteindre le coeur du Volcan. Peut être serons nous capable de calmer la bête.
 
 ![volcan][volcan]
 
-> Cette rencontre nous auras beaucoup fatigué en nous commencerons notre prochaine mission épuisé.
+> Cette rencontre nous aura beaucoup fatigué et nous commencerons notre prochaine mission épuisé.
 
-> Quel épreuve que cette mission. A la fois pour nos corps et nos esprits. Une véritable maison de fou où les plus **dévots** paye de leur sang rendre vie à des tas d'os.
+> Quelle épreuve que cette mission. A la fois pour nos corps et nos esprits. Une véritable maison de fou où les plus **dévots** payent de leur sang pour rendre vie à des tas d'os.
 
-> Mais ce n'est pas tout : **des démons de la terre et du vent** se battent au coté des nécromantiens. En finissant la dernière salle, au bord de l'épuisement. Nous apprenons que l'organisation secrete convoite les sites des pouvoirs d'une ancienne civilisation. Elle aurait notamment le pouvoir de commander au éléments.
+> Mais ce n'est pas tout : **des démons de la terre et du vent** se battent aux cotés des nécromantiens. En finissant la dernière salle, au bord de l'épuisement. Nous apprenons que l'organisation secrète convoite les sites des pouvoirs d'une ancienne civilisation. Elle aurait notamment le pouvoir de commander aux éléments.
 
-> Nous rassemblons nos affaires et nous apprétons à partir. Nous étudions les documents de l'organisation. Un choix s'offre à nous. Soit se diriger vers leur nouvelle cache. Soit suivre leur trace en nous dirigeant vers un ancien lieux de pouvoir.
+> Nous rassemblons nos affaires et nous apprétons à partir. Nous étudions les documents de l'organisation. Un choix s'offre à nous. Soit se diriger vers leur nouvelle cache. Soit suivre leur trace en nous dirigeant vers un ancien lieu de pouvoir.
 
 ![new][new_location]
 
