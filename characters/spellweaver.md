@@ -6,19 +6,17 @@
 
 > Ici la biographie....
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
+| Level | XP  | Gold | Chekmark |
+|:----- |:---:|:----:| --------:|
+| 1     | ??  | ??   | ?        |
 
 ## Kakos O’Lykos
 
 > Kakos O’Lykos c'est le "loup solitaire". Mais ne l'appelé pas comme ça, il peut s'énervé.
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
+| Level | XP  | Gold | Chekmark |
+|:----- |:---:|:----:| --------:|
+| 1     | ??  | ??   | ?        |
 
 <!-- images references -->
 

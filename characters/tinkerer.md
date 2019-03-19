@@ -8,19 +8,17 @@ En raison de leur taille réduite, les Quatryls pensent avoir beaucoup à prouve
 
 > Ici la biographie....
 
-| XP        |  53          |
-| -------- | -------------:|
-| Gold      | 20      |
-| Checkmark |   3    |
+| Level | XP  | Gold | Chekmark |
+|:----- |:---:|:----:| --------:|
+| 2     | 53  | 20   | 3        |
 
 ## Steevy Montagné
 
 > Ici la biographie...
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
+| Level | XP  | Gold | Chekmark |
+|:----- |:---:|:----:| --------:|
+| 1     | ??  | ??   | ?        |
 
 <!-- images references -->
 

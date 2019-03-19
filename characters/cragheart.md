@@ -6,11 +6,9 @@
 
 > Ici la biographie....
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
-
+| Level | XP  | Gold | Chekmark |
+| ----- | --- | ---- | -------- |
+| 2     | 52  | ??   | 2        |
 
 <!-- images references -->
 

@@ -6,19 +6,17 @@
 
 > Ici la biographie....
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
+| Level | XP  | Gold | Chekmark |
+| ----- | --- | ---- | -------- |
+| 1     | ??  | ??   | ?        |
 
 ## Boutteur de Fesses
 
 > Ici la biographie...
 
-| XP        |  26          |
-| -------- | -------------:|
-| Gold      | 15      |
-| Checkmark |   2    |
+| Level | XP  | Gold | Chekmark |
+|:----- |:---:|:----:| --------:|
+| 2     | 52  | 22   | 3        |
 
 <!-- images references -->
 
