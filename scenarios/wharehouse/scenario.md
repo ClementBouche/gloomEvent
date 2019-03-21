@@ -5,13 +5,13 @@
 ## Une soirée amer
 
 > Notre retour à GloomHaven est amer. Jeskerah semble être un désagréable personnage. Nous engloutissons quelque verres au **Lion Assoupi**
-mais sans réel enthousiasme. [Jean-Michel](#) et [Hilde](#) nous faussent compagnie pour prendre un peu de repos.
+mais sans réel enthousiasme. [Jean-Michel][brute] et [Hilde][scoundrel] nous faussent compagnie pour prendre un peu de repos.
 
-> A la fermeture de la taverne [Kakos O'Lykos](#) et votre serviteur - [Steeve Montagné](#) - sortont prendre l'air.
+> A la fermeture de la taverne [Kakos O'Lykos][spellweaver] et votre serviteur - [Steeve Montagné][tinkerer] - sortont prendre l'air.
 Un jeune Vermlings - Homme-Rat - s'approche de nous. Il est paniqué. Enfin une quête pour notre groupe d'aventurier.
 Nous devons récupérér son chat disparu dans une vielle batisse en ruine.
 
-> Reconnaissant il se join à notre groupe ! Bienvenue [Ratty Boy](#)
+> Reconnaissant il se join à notre groupe ! Bienvenue [Ratty Boy][mindthief]
 
 ![illustration][image]
 
@@ -33,4 +33,14 @@ Steeve Montagné, le 19 Mars 1319
 **[Retour à la liste des scénarios][accueil]**
 
 <!-- images references -->
+
+<!-- url references -->
+[accueil]: ../../README.md
+[tinkerer]: ../../characters/tinkerer.md
+[brute]: ../../characters/brute.md 
+[scoundrel]: ../../characters/scoundrel.md 
+[spellweaver]: ../../characters/spellweaver.md
+[mindthief]: ../../characters/mindthief.md
+[cragheart]: ../../characters/cragheart.md
+
 [image]: https://i1.wp.com/makuboards.com/wp-content/uploads/2017/11/Mindthief.png?fit=389%2C389 "Image"
