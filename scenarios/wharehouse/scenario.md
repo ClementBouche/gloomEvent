@@ -1,5 +1,7 @@
 # Wharehouse
 
+**[Retour à la liste des scénarios][accueil]**
+
 ## Une soirée amer
 
 > Notre retour à GloomHaven est amer. Jeskerah semble être un désagréable personnage. Nous engloutissons quelque verres au **Lion Assoupi**
@@ -10,6 +12,8 @@ Un jeune Vermlings - Homme-Rat - s'approche de nous. Il est paniqué. Enfin une 
 Nous devons récupérér son chat disparu dans une vielle batisse en ruine.
 
 > Reconnaissant il se join à notre groupe ! Bienvenue [Ratty Boy](#)
+
+![illustration][image]
 
 > Nous repensons à notre mission, et à cette aventure de secours de chat. C'est ça l'aventure secourir des gens et non pas massacré
 les faibles. C'est décidé nous essairons de déjoué les plans de Jeskerah. En route pour l'entrepôt.
@@ -25,3 +29,8 @@ avec un groupe d'os animé. Les squelettes se retroune vers nous et l'assaut com
 C'est fini pour la poursuite il nous faut nous débarasser des brutes si nous voulons continuer.
 
 Steeve Montagné, le 19 Mars 1319
+
+**[Retour à la liste des scénarios][accueil]**
+
+<!-- images references -->
+[image]: https://i1.wp.com/makuboards.com/wp-content/uploads/2017/11/Mindthief.png?fit=389%2C389 "Image"
