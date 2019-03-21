@@ -5,6 +5,7 @@
 Scénarios
 * [Campement Inox](scenarios/inox_campment/scenario.md)
 * [Crypte des damnés](scenarios/crypt_of_damned/scenario.md)
+* [L'entrepôt](scenarios/wharehouse/scenario.md)
 
 # Outils
 
