@@ -1,10 +1,10 @@
-# Crypte dé-Crépite !
+# La crypte dé-crépite !
 
 **[Retour à la liste des scénarios][accueil]**
 
 ## Que le concours commence - Let's the contest Begin
 
-> Craggou, Jean-Michel et votre serviteur nous retrouvons au *nouveau marché* pour alleger nos bourses. La place principale grouille de monde aujourd'hui. Elle est même richemment décoré, c'est un jour de festivité.
+> [Craggou][cragheart], [Jean-Michel][brute] et [votre serviteur][scoundrel] nous retrouvons au *nouveau marché* pour alleger nos bourses. La place principale grouille de monde aujourd'hui. Elle est même richemment décoré, c'est un jour de festivité.
 
 ![city][city]
 
@@ -18,12 +18,12 @@
 
 ## Au pied de la montagne...
 
-> ... nous entrons dans une crypte décrépite 😄. Derrière la porte que Jean Michel enfonce d'un coup de botte nous trouvons des cultistes en plein rituel. Des ombres faites de griffes et de dents sortent d'un trou béant en suspension dans l'air.
+> ... nous entrons dans une crypte décrépite 😄. Derrière la porte que [Jean Michel][brute] enfonce d'un coup de botte nous trouvons des cultistes en plein rituel. Des ombres faites de griffes et de dents sortent d'un trou béant en suspension dans l'air.
 
 ![scenario][scenario]
 
 > Le dernier démon de feu 🔥 succombe. Tout devient calme à nouveau. La faille continue de trembler légérement.
-Craggou lance un caillou à travers, il disparait complémentement. Je me demande ce qu'il se passerait si je
+[Craggou][cragheart] lance un caillou à travers, il disparait complémentement. Je me demande ce qu'il se passerait si je
 poussait Craggou dedans pourrait t'il nous parlé depuis l'autre côté ?
 
 ![unlock1][unlock1]
