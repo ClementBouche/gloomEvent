@@ -31,16 +31,26 @@ d'attaquer les caravanes marchanges. Nous remplissont que trop bien notre missio
 <!-- url references -->
 [accueil]: ../../README.md
 
-[party]: ../../party/vautour_soleil.md "party"
+[party1]: ../../party/vautour_soleil.md
+[party2]: ../../party/brigade_sacrifie.md
 
-[temple]: ../temple/scenario.md
-
+[cragheart]: ../../characters/cragheart.md "Cragheart"
+[mindthief]: ../../characters/mindthief.md "Mindthief"
 [tinkerer]: ../../characters/tinkerer.md "Tinkerer"
-[brute]: ../../characters/brute.md "brute"
-[scoundrel]: ../../characters/scoundrel.md "Tinkerer"
-[spellweaver]: ../../characters/spellweaver.md "Tinkerer"
+[brute]: ../../characters/brute.md "Brute"
+[scoundrel]: ../../characters/scoundrel.md "Scoundrel"
+[spellweaver]: ../../characters/spellweaver.md "Spellweaver"
 
 <!-- image reference -->
 [gloomhaven_before]: ./gloomhaven.PNG
 [camp]: ./goto.PNG
 
+<!-- reference -->
+[accueil]: ../../README.md
+[monster]: http://www.cephalofair.com/wp-content/uploads/2015/09/Lurker.jpg
+[lair]: ../../barrow_lair/scenario.md
+
+[docks]: ./old_docks.png
+[new_location]: ./new_scenario.png
+[crypt]: ./crypt_damned.png
+[volcan]: ./burning_montain.png

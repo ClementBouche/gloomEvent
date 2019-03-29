@@ -45,3 +45,13 @@
 [new_location]: ./new_scenario.png
 [crypt]: ./crypt_damned.png
 [volcan]: ./burning_montain.png
+
+[party1]: ../../party/vautour_soleil.md
+[party2]: ../../party/brigade_sacrifie.md
+
+[cragheart]: ../../characters/cragheart.md "Cragheart"
+[mindthief]: ../../characters/mindthief.md "Mindthief"
+[tinkerer]: ../../characters/tinkerer.md "Tinkerer"
+[brute]: ../../characters/brute.md "Brute"
+[scoundrel]: ../../characters/scoundrel.md "Scoundrel"
+[spellweaver]: ../../characters/spellweaver.md "Spellweaver"
