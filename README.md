@@ -7,6 +7,7 @@ Scénarios
 * [Crypte des damnés](scenarios/crypt_of_damned/scenario.md)
 * [L'entrepôt](scenarios/wharehouse/scenario.md)
 * [La crypte décrépite](scenarios/ruinous_crypt/scenario.md)
+* [Le Trou Gelé](scenarios/frozen_hollow/scenario.md)
 
 # Outils
 
@@ -23,3 +24,16 @@ Copié / coller le code ci-dessous dans l'outil d'import.
 <!-- ref -->
 [gloomhaven]: https://cdnb.artstation.com/p/assets/images/images/004/217/379/large/alexandr-elichev-gloomhaven-city-wip-6.jpg?1481451377
 
+[tinkerers]: https://ksr-ugc.imgix.net/assets/017/763/681/5a45c2974b2ec05f9efbcd15adc7004f_original.png?ixlib=rb-1.1.0&w=639&fit=max&v=1501698305&auto=format&gif-q=50&lossless=true&s=8f5382ac1a8cb71896ddb8182cc96fb9
+
+[valraths]: https://ksr-ugc.imgix.net/assets/017/845/033/a9e47248118b211d546e406b46276e00_original.png?ixlib=rb-1.1.0&w=639&fit=max&v=1502231602&auto=format&gif-q=50&lossless=true&s=69b94d66ac68abf555b7dd30cac85c16
+
+[savvas]: http://www.cephalofair.com/wp-content/uploads/2017/07/Savvas.png
+
+[rattys]: https://cdnb.artstation.com/p/assets/images/images/007/016/835/20170818045823/smaller_square/alexandr-elichev-wermling.jpg?1503050305
+
+[studying]: https://i.imgur.com/g4ywoAU.jpg
+
+[living_spirit]: https://i.pinimg.com/236x/cf/92/29/cf92291e4b05291bfb0c973d67e6d709.jpg
+
+[bardtale]: https://geeko.lesoir.be/wp-content/uploads/sites/58/2018/07/bardstale.jpg
