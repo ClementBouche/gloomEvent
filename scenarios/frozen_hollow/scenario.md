@@ -65,5 +65,5 @@
 [city]: https://geeko.lesoir.be/wp-content/uploads/sites/58/2018/07/bardstale.jpg
 [scenario]: ./scenario.png
 [unlock1]: ./unlock1.png
-[unlock2]: https://bowlivestorage.blob.core.windows.net/beastsofwarlivesite/2018/04/Gloomhaven-Forgotten-Circles-Art1.jpg
+[unlock2]: ./unlock2.jpg
 [brutes]: https://houseofnerdery.files.wordpress.com/2018/06/inox_caravan_by_kotnonekot-dbifqsm.jpg?w=600&h=380&crop=1
