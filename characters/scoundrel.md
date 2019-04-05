@@ -27,4 +27,4 @@ Ma progression
 
 <!-- images references -->
 
-[image]: https://i.pinimg.com/736x/90/b6/2d/90b62dee6cf3b0ed6087ddaa8c4f3e0c.jpg "Image"*
+[image]: https://i.pinimg.com/736x/90/b6/2d/90b62dee6cf3b0ed6087ddaa8c4f3e0c.jpg "Image"
