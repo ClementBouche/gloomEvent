@@ -20,10 +20,11 @@
 
 
 Ma progression
+
 | Level | Abilities | Perks                                         |
 | ----- | --------- | --------------------------------------------- |
 | 2     | 100       | 2x "Poison" Cards, remove all scenario effect |
-| 3     | ...       | ...                                           |
+| 3     | soon      | ...soon                                       |
 
 <!-- images references -->
 
